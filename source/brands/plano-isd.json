@@ -1,0 +1,24 @@
+{
+  "slug": "plano-isd",
+  "district_name": "Plano ISD",
+  "update_name": "Legislative Update",
+  "logo_url": "https://dashboard.ntxec.org/logos/plano.png",
+  "logo_alt": "Plano ISD",
+  "logo_width": 96,
+  "colors": {
+    "primary": "#9D2235",
+    "accent": "#D4A43A",
+    "accent_text": "#9D2235",
+    "highlight": "#393C3D",
+    "text": "#1F1F24",
+    "muted": "#5A5A66",
+    "rule": "#E2DDD9",
+    "band": "#F6F3F1"
+  },
+  "font_stack": "Arial, Helvetica, sans-serif",
+  "attribution": "",
+  "contact_line": "",
+  "web_base_url": "https://updates.ntxec.org/plano-isd/",
+  "brand_source": "Plano ISD colors as used on the NTXEC session dashboard: maroon #9D2235, charcoal #393C3D, gold #D4A43A. Arial substitutes for the dashboard's web fonts so email renders consistently.",
+  "notes": "Gold is used only for the accent rule, never for text, because it fails contrast on white. logo_url points to NTXEC's hosted copy for the session dashboard."
+}
