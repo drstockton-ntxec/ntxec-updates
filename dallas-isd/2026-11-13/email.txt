@@ -1,0 +1,107 @@
+DALLAS ISD LEGISLATIVE UPDATE
+Week of November 9, 2026
+November 13, 2026
+View online: https://updates.ntxec.org/dallas-isd/2026-11-13/
+
+THIS WEEK AT THE CAPITOL
+------------------------
+
+Bill filing for the 90th Legislature opened on Monday, November 9. Lawmakers filed more than 1,400 bills in the first four days, and 276 of them address public education. Most of the early education bills deal with three issues: school funding, property tax relief, and the education savings account program.
+
+Keep in mind that filing a bill is only the first step. Most of these bills will never get a hearing, and the ones that do will likely look very different by the time they move. That said, early filings are a good signal of where the debate is headed.
+
+BILL FILING OPENS FOR THE 90TH LEGISLATURE
+------------------------------------------
+
+The regular session convenes on Tuesday, January 12, 2027, and runs for 140 days under the Texas Constitution (https://statutes.capitol.texas.gov/Docs/CN/htm/CN.3.htm). Here are the key dates:
+
+  Date  |  Milestone
+  November 9, 2026  |  Bill filing opens
+  January 12, 2027  |  Regular session convenes
+  March 12, 2027  |  Deadline to file most bills (60th day)
+  May 31, 2027  |  Last day of regular session
+
+Committee chairs and assignments will not be named until after the session begins. Future updates will cover them once they are announced.
+
+SCHOOL FINANCE
+--------------
+
+The largest group of early school finance bills would move state funding from attendance to enrollment. Several also raise the basic allotment and tie it to inflation.
+
+Funding on enrollment. Most state aid to school districts is currently based on average daily attendance. HB 376 (https://capitol.texas.gov/BillLookup/History.aspx?LegSess=90R&Bill=HB376) (Bucy), HB 685 (https://capitol.texas.gov/BillLookup/History.aspx?LegSess=90R&Bill=HB685) (Vasut), HB 723 (https://capitol.texas.gov/BillLookup/History.aspx?LegSess=90R&Bill=HB723) (Landgraf), SB 98 (https://capitol.texas.gov/BillLookup/History.aspx?LegSess=90R&Bill=SB98) (Menéndez), and SB 310 (https://capitol.texas.gov/BillLookup/History.aspx?LegSess=90R&Bill=SB310) (Rehmet) would all switch to average enrollment, using enrollment counts taken in October and March. Members of both parties filed versions in both chambers.
+
+Basic allotment. The basic allotment is currently $6,160 per student. Four bills would increase it and adjust it for inflation going forward:
+
+  Bill  |  Author  |  Proposed basic allotment  |  Inflation adjustment
+  SB 310 (https://capitol.texas.gov/BillLookup/History.aspx?LegSess=90R&Bill=SB310)  |  Rehmet  |  $7,750  |  Yes, starting 2028-29
+  HB 178 (https://capitol.texas.gov/BillLookup/History.aspx?LegSess=90R&Bill=HB178)  |  Howard  |  $7,500  |  Yes, starting 2028-29
+  SB 98 (https://capitol.texas.gov/BillLookup/History.aspx?LegSess=90R&Bill=SB98)  |  Menéndez  |  $7,365  |  Yes
+  HB 853 (https://capitol.texas.gov/BillLookup/History.aspx?LegSess=90R&Bill=HB853)  |  Anchía  |  $7,075  |  Yes, starting 2028-29
+
+HB 868 (https://capitol.texas.gov/BillLookup/History.aspx?LegSess=90R&Bill=HB868) (Landgraf) would adjust the basic allotment and guaranteed yield for inflation but would not increase the current base amount.
+
+SB 98 goes the furthest. In addition to the enrollment change and the allotment increase, the bill would extend the special education transition funding through the 2027-28 school year, expand prekindergarten for four-year-olds, create a mental health allotment, and increase the school safety allotment to $100 per student.
+
+Recapture. Several bills address recapture. HB 709 (https://capitol.texas.gov/BillLookup/History.aspx?LegSess=90R&Bill=HB709) (Landgraf) and HB 1055 (https://capitol.texas.gov/BillLookup/History.aspx?LegSess=90R&Bill=HB1055) (Howard) would give school districts a credit, 10% and 4% respectively, for paying their full recapture amount by February 15. HB 1069 (https://capitol.texas.gov/BillLookup/History.aspx?LegSess=90R&Bill=HB1069) (Kerwin) would let districts credit their property and casualty insurance costs against recapture. HB 142 (https://capitol.texas.gov/BillLookup/History.aspx?LegSess=90R&Bill=HB142) (Plesa) would require appraisal district records to show taxpayers how much of their school taxes go to recapture.
+
+Special education. HB 361 (https://capitol.texas.gov/BillLookup/History.aspx?LegSess=90R&Bill=HB361) (González) would extend the special education funding adjustment through the 2027-28 school year and ensure that no district receives less special education funding in 2027-28 than it did in 2026-27.
+
+PROPERTY TAX RELIEF
+-------------------
+
+A second group of bills would use surplus state revenue to continue buying down school district maintenance and operations (M&O) tax rates.
+
+Most of these bills work through the state compression percentage, which sets the maximum compressed M&O rate. They would send surplus general revenue to the property tax relief fund and use it to lower that percentage.
+
+- HB 1065 (https://capitol.texas.gov/BillLookup/History.aspx?LegSess=90R&Bill=HB1065) (Virdell) would send 90% of excess general revenue to the fund, HB 872 (https://capitol.texas.gov/BillLookup/History.aspx?LegSess=90R&Bill=HB872) (Kerwin) would send half, and HB 1040 (https://capitol.texas.gov/BillLookup/History.aspx?LegSess=90R&Bill=HB1040) (Shaheen) would also direct excess revenue to compression.
+- All three bills provide that if the compression percentage reaches zero, school districts could no longer levy a tier one M&O tax. Districts would instead be funded as if they had a compressed rate and no local share.
+- HB 332 (https://capitol.texas.gov/BillLookup/History.aspx?LegSess=90R&Bill=HB332) (Isaac) would, beginning in 2029, send general revenue growth above 104% of the prior biennium to the fund.
+- HJR 60 (https://capitol.texas.gov/BillLookup/History.aspx?LegSess=90R&Bill=HJR60) (Kerwin) proposes a constitutional amendment that would redirect money that would otherwise go to the Economic Stabilization Fund toward M&O tax reduction.
+
+HB 1075 (https://capitol.texas.gov/BillLookup/History.aspx?LegSess=90R&Bill=HB1075) and HJR 71 (https://capitol.texas.gov/BillLookup/History.aspx?LegSess=90R&Bill=HJR71) (Mizani) take a different approach. They would exempt homesteads from school M&O taxes entirely and require the state to replace the lost revenue.
+
+EDUCATION SAVINGS ACCOUNTS
+--------------------------
+
+At least seven bills filed this week would repeal the education savings account (ESA) program, and four others would change how it works.
+
+Repeal. SB 106 (https://capitol.texas.gov/BillLookup/History.aspx?LegSess=90R&Bill=SB106) (Menéndez), SB 294 (https://capitol.texas.gov/BillLookup/History.aspx?LegSess=90R&Bill=SB294) (West), HB 164 (https://capitol.texas.gov/BillLookup/History.aspx?LegSess=90R&Bill=HB164) (Bucy), HB 646 (https://capitol.texas.gov/BillLookup/History.aspx?LegSess=90R&Bill=HB646) (González), HB 675 (https://capitol.texas.gov/BillLookup/History.aspx?LegSess=90R&Bill=HB675) (Herbert), HB 735 (https://capitol.texas.gov/BillLookup/History.aspx?LegSess=90R&Bill=HB735) (Jimenez), and HB 1081 (https://capitol.texas.gov/BillLookup/History.aspx?LegSess=90R&Bill=HB1081) (O'Brien Duzan) would all repeal the program. Several of them would still honor accounts already funded for 2026-27 and move any unspent program money to general revenue.
+
+Changes to the program.
+
+- SB 291 (https://capitol.texas.gov/BillLookup/History.aspx?LegSess=90R&Bill=SB291) (Perry) would limit the use of ESA funds for online or virtual services to students who are homeschooled, have a disability, or have a documented medical condition.
+- HB 324 (https://capitol.texas.gov/BillLookup/History.aspx?LegSess=90R&Bill=HB324) (González) and HB 580 (https://capitol.texas.gov/BillLookup/History.aspx?LegSess=90R&Bill=HB580) (Gámez) would add disability-related requirements for private schools that participate in the program.
+- HB 916 (https://capitol.texas.gov/BillLookup/History.aspx?LegSess=90R&Bill=HB916) (Dorazio) would require participating private schools to disclose whether they accept students with frequent medical absences and what accommodations they offer.
+
+Relatedly, HJR 47 (https://capitol.texas.gov/BillLookup/History.aspx?LegSess=90R&Bill=HJR47) (Vasut) proposes a constitutional amendment that would prohibit state and local regulation of the educational programs of private schools and home schools.
+
+GOVERNANCE, ACCOUNTABILITY AND ASSESSMENT
+-----------------------------------------
+
+Early filings would also change state testing, the state's authority to intervene in school districts, and what school boards can spend money on.
+
+Assessment and A-F ratings.
+
+- HB 292 (https://capitol.texas.gov/BillLookup/History.aspx?LegSess=90R&Bill=HB292) (González) would create a 19-member Texas Commission on Assessment and Accountability, end A-F ratings after the 2027-28 school year, and limit state testing after that year to what federal law requires.
+- HB 862 (https://capitol.texas.gov/BillLookup/History.aspx?LegSess=90R&Bill=HB862) (Landgraf) would eliminate all state assessments and end-of-course exams that are not required by federal law.
+- HB 879 (https://capitol.texas.gov/BillLookup/History.aspx?LegSess=90R&Bill=HB879) (Lozano) relates to regionally developed diagnostic assessments and reducing high-stakes testing.
+
+State intervention.
+
+- SB 241 (https://capitol.texas.gov/BillLookup/History.aspx?LegSess=90R&Bill=SB241) (Cook) would change the trigger for state intervention from a single low-performing campus to 10% of a district's campuses and would make intervention discretionary rather than required.
+- HB 210 (https://capitol.texas.gov/BillLookup/History.aspx?LegSess=90R&Bill=HB210) (Collier) would require the Commissioner to remove a conservator or board of managers if the problem that triggered the intervention still exists after two years of state oversight.
+- SB 220 (https://capitol.texas.gov/BillLookup/History.aspx?LegSess=90R&Bill=SB220) (West) would make agreements that resolve a TEA special investigation public and require them to lay out the allegations and any agreed findings.
+
+Board spending and operations.
+
+- HB 117 (https://capitol.texas.gov/BillLookup/History.aspx?LegSess=90R&Bill=HB117) (Olcott) and HB 1043 (https://capitol.texas.gov/BillLookup/History.aspx?LegSess=90R&Bill=HB1043) (Shaheen) would prohibit political subdivisions, including school districts, from using public funds to hire registered lobbyists or to pay associations that employ them.
+- HB 833 (https://capitol.texas.gov/BillLookup/History.aspx?LegSess=90R&Bill=HB833) (Harrison) would prohibit school districts from purchasing training, insurance, risk pool coverage, buy board goods, or professional services from associations that represent political subdivisions and employ a lobbyist.
+- HB 1074 (https://capitol.texas.gov/BillLookup/History.aspx?LegSess=90R&Bill=HB1074) (Mizani) would limit administrator compensation, and HB 826 (https://capitol.texas.gov/BillLookup/History.aspx?LegSess=90R&Bill=HB826) (Harrison) would cap the salaries of all public employees, including school district employees, at the governor's salary.
+- HB 432 (https://capitol.texas.gov/BillLookup/History.aspx?LegSess=90R&Bill=HB432) (Lalani) would require a school board to hold at least three public meetings and post an impact statement before closing or consolidating a campus.
+
+WHAT'S NEXT
+-----------
+
+Bill filing continues through March 12, and the pace usually picks up once session begins in January. These updates will continue each week with new filings that affect school districts and, once the session is underway, committee hearings, votes, and where the major bills stand.
+
+--
