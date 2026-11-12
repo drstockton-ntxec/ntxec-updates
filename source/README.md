@@ -53,3 +53,7 @@ Copy `brands/dallas-isd.json` to `brands/<slug>.json` and change the name, logo 
 - Primary sources only: bill links go to Texas Legislature Online; hearing items cite the official broadcast; agency items cite the agency's own document.
 - Invited testimony only. Leave out actions by a party or group of lawmakers acting alone unless they come from someone positioned to drive them.
 - Avoid dashes in drafted text.
+
+## Hosting
+
+Published from the GitHub repo drstockton-ntxec/ntxec-updates via GitHub Pages at https://updates.ntxec.org (DNS: CNAME `updates` to `drstockton-ntxec.github.io`). Built pages sit at the repo root; this build system is kept in the repo's `source/` folder. Each week: build, copy `dist/*` to the repo root, commit, push.
