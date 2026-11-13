@@ -6,7 +6,7 @@ View online: https://updates.ntxec.org/plano-isd/2026-11-13/
 THIS WEEK AT THE CAPITOL
 ------------------------
 
-Bill filing for the 90th Legislature opened on Monday, November 9. Lawmakers filed more than 1,400 bills in the first four days, and 276 of them address public education. Most of the early education bills deal with three issues: school funding, property tax relief, and the education savings account program.
+Bill filing for the 90th Legislature opened on Monday, November 9. Lawmakers filed more than 1,400 bills in the first four days, and 300 of them address public education. Most of the early education bills deal with three issues: school funding, property tax relief, and the education savings account program.
 
 Keep in mind that filing a bill is only the first step. Most of these bills will never get a hearing, and the ones that do will likely look very different by the time they move. That said, early filings are a good signal of where the debate is headed.
 
@@ -28,7 +28,7 @@ SCHOOL FINANCE
 
 The largest group of early school finance bills would move state funding from attendance to enrollment. Several also raise the basic allotment and tie it to inflation.
 
-Funding on enrollment. Most state aid to school districts is currently based on average daily attendance. HB 376 (https://capitol.texas.gov/BillLookup/History.aspx?LegSess=90R&Bill=HB376) (Bucy), HB 685 (https://capitol.texas.gov/BillLookup/History.aspx?LegSess=90R&Bill=HB685) (Vasut), HB 723 (https://capitol.texas.gov/BillLookup/History.aspx?LegSess=90R&Bill=HB723) (Landgraf), SB 98 (https://capitol.texas.gov/BillLookup/History.aspx?LegSess=90R&Bill=SB98) (Menéndez), and SB 310 (https://capitol.texas.gov/BillLookup/History.aspx?LegSess=90R&Bill=SB310) (Rehmet) would all switch to average enrollment, using enrollment counts taken in October and March. Members of both parties filed versions in both chambers.
+Funding on enrollment. Most state aid to school districts is currently based on average daily attendance. HB 376 (https://capitol.texas.gov/BillLookup/History.aspx?LegSess=90R&Bill=HB376) (Bucy), HB 685 (https://capitol.texas.gov/BillLookup/History.aspx?LegSess=90R&Bill=HB685) (Vasut), HB 723 (https://capitol.texas.gov/BillLookup/History.aspx?LegSess=90R&Bill=HB723) (Landgraf), SB 98 (https://capitol.texas.gov/BillLookup/History.aspx?LegSess=90R&Bill=SB98) (Menéndez), SB 310 (https://capitol.texas.gov/BillLookup/History.aspx?LegSess=90R&Bill=SB310) (Rehmet), and HB 1096 (https://capitol.texas.gov/BillLookup/History.aspx?LegSess=90R&Bill=HB1096) (Bernal) would all switch to average enrollment, using enrollment counts taken in October and March. Members of both parties filed versions in both chambers.
 
 Basic allotment. The basic allotment is currently $6,160 per student. Four bills would increase it and adjust it for inflation going forward:
 
@@ -60,12 +60,14 @@ Most of these bills work through the state compression percentage, which sets th
 
 HB 1075 (https://capitol.texas.gov/BillLookup/History.aspx?LegSess=90R&Bill=HB1075) and HJR 71 (https://capitol.texas.gov/BillLookup/History.aspx?LegSess=90R&Bill=HJR71) (Mizani) take a different approach. They would exempt homesteads from school M&O taxes entirely and require the state to replace the lost revenue.
 
+HB 1113 (https://capitol.texas.gov/BillLookup/History.aspx?LegSess=90R&Bill=HB1113) and HJR 74 (https://capitol.texas.gov/BillLookup/History.aspx?LegSess=90R&Bill=HJR74) (Bernal) would freeze school taxes on a homestead owned for at least 15 straight years if the school taxes on it have risen at least 120% over that period, not counting improvements. The school district could not tax that homestead above the 15th year's amount going forward.
+
 EDUCATION SAVINGS ACCOUNTS
 --------------------------
 
-At least seven bills filed this week would repeal the education savings account (ESA) program, and four others would change how it works.
+At least nine bills filed this week would repeal the education savings account (ESA) program, and four others would change how it works.
 
-Repeal. SB 106 (https://capitol.texas.gov/BillLookup/History.aspx?LegSess=90R&Bill=SB106) (Menéndez), SB 294 (https://capitol.texas.gov/BillLookup/History.aspx?LegSess=90R&Bill=SB294) (West), HB 164 (https://capitol.texas.gov/BillLookup/History.aspx?LegSess=90R&Bill=HB164) (Bucy), HB 646 (https://capitol.texas.gov/BillLookup/History.aspx?LegSess=90R&Bill=HB646) (González), HB 675 (https://capitol.texas.gov/BillLookup/History.aspx?LegSess=90R&Bill=HB675) (Herbert), HB 735 (https://capitol.texas.gov/BillLookup/History.aspx?LegSess=90R&Bill=HB735) (Jimenez), and HB 1081 (https://capitol.texas.gov/BillLookup/History.aspx?LegSess=90R&Bill=HB1081) (O'Brien Duzan) would all repeal the program. Several of them would still honor accounts already funded for 2026-27 and move any unspent program money to general revenue.
+Repeal. SB 106 (https://capitol.texas.gov/BillLookup/History.aspx?LegSess=90R&Bill=SB106) (Menéndez), SB 294 (https://capitol.texas.gov/BillLookup/History.aspx?LegSess=90R&Bill=SB294) (West), HB 164 (https://capitol.texas.gov/BillLookup/History.aspx?LegSess=90R&Bill=HB164) (Bucy), HB 646 (https://capitol.texas.gov/BillLookup/History.aspx?LegSess=90R&Bill=HB646) (González), HB 675 (https://capitol.texas.gov/BillLookup/History.aspx?LegSess=90R&Bill=HB675) (Herbert), HB 735 (https://capitol.texas.gov/BillLookup/History.aspx?LegSess=90R&Bill=HB735) (Jimenez), HB 1081 (https://capitol.texas.gov/BillLookup/History.aspx?LegSess=90R&Bill=HB1081) (O'Brien Duzan), HB 1093 (https://capitol.texas.gov/BillLookup/History.aspx?LegSess=90R&Bill=HB1093) (Lalani), and HB 1129 (https://capitol.texas.gov/BillLookup/History.aspx?LegSess=90R&Bill=HB1129) (Turner) would all repeal the program. Several of them would still honor accounts already funded for 2026-27 and move any unspent program money to general revenue.
 
 Changes to the program.
 
