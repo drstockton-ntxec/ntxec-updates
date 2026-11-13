@@ -20,5 +20,7 @@
   "contact_line": "",
   "web_base_url": "https://updates.ntxec.org/plano-isd/",
   "brand_source": "Plano ISD colors as used on the NTXEC session dashboard: maroon #9D2235, charcoal #393C3D, gold #D4A43A. Arial substitutes for the dashboard's web fonts so email renders consistently.",
-  "notes": "Gold is used only for the accent rule, never for text, because it fails contrast on white. logo_url points to NTXEC's hosted copy for the session dashboard."
+  "notes": "Gold is used only for the accent rule, never for text, because it fails contrast on white. logo_url points to NTXEC's hosted copy for the session dashboard.",
+  "dashboard_url": "https://dashboard.ntxec.org/?d=plano",
+  "dashboard_label": "View the 90th Session Bill Dashboard"
 }

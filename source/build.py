@@ -252,6 +252,22 @@ def style_for_email(body_html, b):
     return str(soup)
 
 
+def dashboard_label(b):
+    return b.get("dashboard_label") or "View the Bill Dashboard"
+
+
+def email_button(b):
+    if not b.get("dashboard_url"):
+        return ""
+    c, font = b["colors"], b["font_stack"]
+    url, label = html.escape(b["dashboard_url"]), html.escape(dashboard_label(b))
+    return f"""<table role="presentation" cellpadding="0" cellspacing="0" border="0" style="margin:8px 0 24px;">
+        <tr><td align="center" bgcolor="{c['primary']}" style="background:{c['primary']};border-radius:4px;">
+          <a href="{url}" style="display:inline-block;padding:13px 26px;font-family:{font};font-size:16px;line-height:20px;font-weight:bold;color:#FFFFFF;text-decoration:none;border-radius:4px;">{label}</a>
+        </td></tr>
+      </table>"""
+
+
 def build_email(issue, b, web_url):
     c, font = b["colors"], b["font_stack"]
     body = style_for_email(markdown.markdown(issue["body_md"], extensions=["tables", "md_in_html"]), b)
@@ -295,6 +311,7 @@ def build_email(issue, b, web_url):
     <tr><td class="px" style="padding:24px 40px 8px;">
       <p style="margin:0 0 4px;font-family:{font};font-size:13px;line-height:19px;color:{c['muted']};">{long_date(issue['date'])} &middot; <a href="{html.escape(web_url)}" style="color:{c['accent_text']};text-decoration:underline;">View this update online</a></p>
       {body}
+      {email_button(b)}
     </td></tr>
     <tr><td class="px" style="padding:20px 40px 28px;border-top:1px solid {c['rule']};">
       {contact}
@@ -334,6 +351,8 @@ def build_text(issue, b, web_url):
         long_date(issue["date"]),
         f"View online: {web_url}",
     ]
+    if b.get("dashboard_url"):
+        lines += ["", f"{dashboard_label(b)}: {b['dashboard_url']}"]
     footer = ["", "--"]
     if b.get("contact_line"):
         footer.append(b["contact_line"])
@@ -371,6 +390,8 @@ td {{ padding:9px 12px; border-bottom:1px solid var(--rule); vertical-align:top;
 tbody tr:nth-child(even) td {{ background:var(--band); }}
 footer {{ padding:20px 40px 36px; border-top:1px solid var(--rule); color:var(--muted); font-size:14px; }}
 footer p {{ margin:0 0 6px; }}
+.btn {{ display:inline-block; background:var(--primary); color:#fff; font-weight:bold; text-decoration:none; padding:13px 26px; border-radius:4px; margin:8px 0 24px; }}
+.btn:hover {{ color:#fff; opacity:.9; }}
 .district-note {{ background:var(--band); border-left:4px solid {highlight}; padding:16px 18px 2px; margin:4px 0 20px; }}
 .issues {{ list-style:none; padding:0; }}
 .issues li {{ padding:14px 0; border-bottom:1px solid var(--rule); margin:0; }}
@@ -431,7 +452,9 @@ def build_web(issue, b, archive_url):
         f"{b['district_name']} {b['update_name']}: {issue['week_label']}",
         b["update_name"],
         issue["week_label"],
-        meta + "\n" + body,
+        meta + "\n" + body + (
+            f'\n<p><a class="btn" href="{html.escape(b["dashboard_url"])}">{html.escape(dashboard_label(b))}</a></p>'
+            if b.get("dashboard_url") else ""),
         issue["preheader"],
     )
 

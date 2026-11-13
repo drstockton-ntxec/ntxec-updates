@@ -20,5 +20,7 @@
   "contact_line": "",
   "web_base_url": "https://updates.ntxec.org/dallas-isd/",
   "brand_source": "Dallas ISD Branding and Style Guidelines: Primary Blue #211650, Primary Turquoise #00948F, Primary Red #97252B; Arial for reports.",
-  "notes": "accent_text is a darkened turquoise used only for link text so it meets WCAG AA contrast on white. logo_url points to the copy NTXEC already hosts for the session dashboard; switch to a Dallas ISD-hosted copy when the district starts sending."
+  "notes": "accent_text is a darkened turquoise used only for link text so it meets WCAG AA contrast on white. logo_url points to the copy NTXEC already hosts for the session dashboard; switch to a Dallas ISD-hosted copy when the district starts sending.",
+  "dashboard_url": "https://dashboard.ntxec.org/?d=dallas",
+  "dashboard_label": "View the 90th Session Bill Dashboard"
 }

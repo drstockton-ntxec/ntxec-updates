@@ -45,7 +45,7 @@ Prefer notes over replacements. Notes are labeled as the district's own voice, w
 
 ## Adding a district
 
-Copy `brands/dallas-isd.json` to `brands/<slug>.json` and change the name, logo URL, colors and `web_base_url`. `attribution` is optional; leave it empty for no attribution line (the footer then shows the update's name). Check that link text color has at least 4.5:1 contrast on white; many district accent colors need a darker shade for links.
+Copy `brands/dallas-isd.json` to `brands/<slug>.json` and change the name, logo URL, colors and `web_base_url`. `dashboard_url` and `dashboard_label` add a button after the closing that links to the district's branded bill dashboard (`https://dashboard.ntxec.org/?d=<code>`, codes listed in the ntxec-dashboard repo README); leave `dashboard_url` empty for no button. `attribution` is optional; leave it empty for no attribution line (the footer then shows the update's name). Check that link text color has at least 4.5:1 contrast on white; many district accent colors need a darker shade for links.
 
 ## Rules for the master copy
 
